@@ -8,3 +8,5 @@
 !/.gitignore
 !/.gitmodules
 !/CMakeLists.txt
+!/build.sh
+!/run.sh
